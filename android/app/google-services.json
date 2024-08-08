@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568680872736",
+    "project_id": "react-native-fire-69dbb",
+    "storage_bucket": "react-native-fire-69dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568680872736:android:199822b5025b4220093545",
+        "android_client_info": {
+          "package_name": "com.firebasee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1pE7sl342J1dmbck1jH5Sgo0eWtorQjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
